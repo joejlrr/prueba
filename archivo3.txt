@@ -1,0 +1,3 @@
+Este es un archivo para explicar GIT y GitHub.
+
+Hemos modificado el archivo.
