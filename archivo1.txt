@@ -1,0 +1,3 @@
+Este es un archivo de prueba para aprender a utilizar GIT y GitHub.
+
+Hemos modificado el archivo.
